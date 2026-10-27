@@ -53,4 +53,23 @@
       <image:caption>On-device augmented reality computer vision and kinetic gesture tracking</image:caption>
     </image:image>
   </url>
+
+  <!-- PhotoboothPro — Digital Photo Booth Studio -->
+  <url>
+    <loc>https://razeltech.github.io/PhotoboothPro/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://razeltech.github.io/PhotoboothPro/logo.png</image:loc>
+      <image:title>PhotoboothPro — Digital Photo Booth Studio | Razel Tech</image:title>
+      <image:caption>Professional digital photobooth with instant strip generation, vintage filters, and custom branding</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://razeltech.github.io/PhotoboothPro/booth.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
