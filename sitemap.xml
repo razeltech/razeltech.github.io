@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <!-- Razel Tech Main Corporate Portal -->
+  
+  <!-- Razel Tech Main Engineering Portal -->
   <url>
     <loc>https://razeltech.github.io/</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://razeltech.github.io/banner_RT_Services.png</image:loc>
-      <image:title>Razel Tech — Enterprise Software Development &amp; Digital Twins</image:title>
-      <image:caption>Custom enterprise software, Unity applications, digital twins, BIM solutions, and scalable SaaS platforms</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>https://razeltech.github.io/logo.png</image:loc>
-      <image:title>Razel Tech Official Logo</image:title>
+      <image:title>Razel Tech | Custom Software Development &amp; Spatial Labs</image:title>
     </image:image>
   </url>
 
-  <!-- MAHATI — Virtual Music Studio -->
+  <!-- MAHATI - Virtual Music Studio -->
   <url>
     <loc>https://razeltech.github.io/virtual-music-studio/</loc>
     <lastmod>2026-10-27</lastmod>
@@ -26,50 +22,47 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://razeltech.github.io/virtual-music-studio/assets/og-preview.png</image:loc>
-      <image:title>MAHATI — Virtual Music Studio | Razel Tech</image:title>
-      <image:caption>Multi-touch polyphonic workstation with sustained piano, physics guitar, visual drum stage, bowed strings, and harp</image:caption>
+      <image:title>MAHATI - Virtual Music Studio</image:title>
+      <image:caption>Zero-latency polyphonic procedural Web Audio synthesizer, multi-octave piano, acoustic guitar, string section, and drum machine</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://razeltech.github.io/virtual-music-studio/assets/banner.png</image:loc>
-      <image:title>MAHATI Workstation Interface Banner</image:title>
-      <image:caption>Flagship procedural Web Audio synthesizer workstation by Razel Tech</image:caption>
+      <image:title>MAHATI Web Audio Workstation</image:title>
     </image:image>
   </url>
 
-  <!-- Divya Drusti — Spatial Vision Studio -->
+  <!-- Divya Drusti - Spatial Vision Studio -->
   <url>
     <loc>https://razeltech.github.io/divya-drusti/</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://razeltech.github.io/divya-drusti/assets/og-preview.jpg</image:loc>
-      <image:title>Divya Drusti — Spatial Vision Studio | Razel Tech</image:title>
-      <image:caption>Real-time on-device AR spatial vision studio powered by WebGL2 shaders and MediaPipe AI</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://razeltech.github.io/divya-drusti/assets/divyadrusti-linkedin.jpg</image:loc>
-      <image:title>Divya Drusti Spatial Computing Showcase Visual</image:title>
-      <image:caption>On-device augmented reality computer vision and kinetic gesture tracking</image:caption>
+      <image:loc>https://razeltech.github.io/divya-drusti/assets/preview.png</image:loc>
+      <image:title>Divya Drusti - Spatial Vision Studio</image:title>
+      <image:caption>On-device augmented reality, 468-point facial mesh tracking, and real-time computer vision lab</image:caption>
     </image:image>
   </url>
 
-  <!-- PhotoboothPro — Digital Photo Booth Studio -->
+  <!-- Photobooth Pro Studio -->
   <url>
     <loc>https://razeltech.github.io/PhotoboothPro/</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.85</priority>
     <image:image>
-      <image:loc>https://razeltech.github.io/PhotoboothPro/logo.png</image:loc>
-      <image:title>PhotoboothPro — Digital Photo Booth Studio | Razel Tech</image:title>
-      <image:caption>Professional digital photobooth with instant strip generation, vintage filters, and custom branding</image:caption>
+      <image:loc>https://razeltech.github.io/PhotoboothPro/assets/og-preview.png</image:loc>
+      <image:title>Photobooth Pro Studio</image:title>
+      <image:caption>In-browser vintage 35mm photobooth studio and progressive web app</image:caption>
     </image:image>
   </url>
+
+  <!-- Invoice Vault Demo -->
   <url>
-    <loc>https://razeltech.github.io/PhotoboothPro/booth.html</loc>
+    <loc>https://razeltech.github.io/InvoiceVaultDemo/</loc>
     <lastmod>2026-10-27</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
 </urlset>
